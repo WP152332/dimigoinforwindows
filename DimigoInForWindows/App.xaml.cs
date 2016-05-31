@@ -39,6 +39,7 @@ namespace DimigoInForWindows
         /// 최종 사용자가 응용 프로그램을 정상적으로 시작할 때 호출됩니다. 다른 진입점은
         /// 특정 파일을 여는 등 응용 프로그램을 시작할 때
         /// </summary>
+        /// AHISDFAFWEGFAWEUOFGWFUGWEOFUGAWEOUWEFGOWEUGAOGU
         /// <param name="e">시작 요청 및 프로세스에 대한 정보입니다.</param>
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
@@ -75,6 +76,7 @@ namespace DimigoInForWindows
                     // 탐색 스택이 복원되지 않으면 첫 번째 페이지로 돌아가고
                     // 필요한 정보를 탐색 매개 변수로 전달하여 새 페이지를
                     // 구성합니다.
+                    // GITIGIITIGATII
                     rootFrame.Navigate(typeof(MainPage), e.Arguments);
                 }
                 // 현재 창이 활성 창인지 확인
