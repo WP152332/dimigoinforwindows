@@ -38,6 +38,7 @@ namespace DimigoInForWindows
         /// <summary>
         /// 최종 사용자가 응용 프로그램을 정상적으로 시작할 때 호출됩니다. 다른 진입점은
         /// 특정 파일을 여는 등 응용 프로그램을 시작할 때
+        /// 기시기시ㅣㄱ시기시깃기ㅣㅣ
         /// </summary>
         /// AHISDFAFWEGFAWEUOFGWFUGWEOFUGAWEOUWEFGOWEUGAOGU
         /// <param name="e">시작 요청 및 프로세스에 대한 정보입니다.</param>
